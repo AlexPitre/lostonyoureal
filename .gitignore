@@ -28,3 +28,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Assets/Textures/landscape.mp4.meta
+
+Assets/Textures/landscape.ogv.meta
